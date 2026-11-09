@@ -1,0 +1,12 @@
+{
+  "scenario": "public_01_dev",
+  "kill_at_minute": 2130,
+  "restart_exit_code": 0,
+  "finished": true,
+  "end_minute": 11520,
+  "persisted_last_chunk": 392,
+  "all_unique_proposal_ids": true,
+  "unresolved_intents": 0,
+  "observed_config_snapshots": 6,
+  "audit_db": "run_states/recovery/public_01_dev/controller.sqlite"
+}

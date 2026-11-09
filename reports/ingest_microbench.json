@@ -1,0 +1,11 @@
+{
+  "kind": "replayed_HTTP_chunk_microbenchmark_NOT_full_load",
+  "source_chunk_events": 187438,
+  "source_chunk_calls": 141196,
+  "repeats": 4,
+  "call_rows_parsed": 564784,
+  "throughput_calls_per_second": 120194,
+  "wall_seconds": 4.699,
+  "peak_rss_mib": 107.1,
+  "warning": "Does not measure simulator generation or the public_03 full-scale scenario"
+}
